@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "The overall rate of total households suffering under energy poverty is calculated for all income levels and types of households.",
+  "textNote": "Energy poverty occurs when a household must reduce its energy consumption to a degree that negatively impacts the inhabitants' health and wellbeing",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=en",
   "textCountryClick": "Click for more info"
