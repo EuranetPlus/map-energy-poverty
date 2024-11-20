@@ -1,13 +1,13 @@
 {
-  "heading": "Kolikšen je delež gospodinjstev, ki trpijo zaradi energetske revščine?",
-  "subheading": "Leta 2023 je povprečno 10,6 % vseh gospodinjstev v državah članicah EU27 trpelo zaradi energetske revščine.",
+  "heading": "Koliko evropskih gospodinjstev se sooča z energetsko revščino?",
+  "subheading": "V povprečju 10,6 % gospodinjstev v EU leta 2023 ni moglo zadovoljiti svojih potreb po energiji.",
   "legend1": "Ni podatkov",
   "tooltip1": "gospodinjstev",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Energetska revščina se pojavi, ko mora gospodinjstvo zmanjšati porabo energije do stopnje, ki negativno vpliva na zdravje in dobro počutje prebivalcev.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

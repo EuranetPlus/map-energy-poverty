@@ -1,6 +1,6 @@
 {
-  "heading": "Mekkora az energiaszegénységben szenvedő háztartások aránya?",
-  "subheading": "2023-ban az EU-27 tagállamaiban a háztartások átlagosan 10,6%-a szenvedett energiaszegénységtől.",
+  "heading": "Hány európai háztartás küzd energiaszegénységgel?",
+  "subheading": "Az EU-ban a háztartások átlagosan 10,6%-a nem tudta kielégíteni energiaszükségletét 2023-ban.",
   "legend1": "Nincs adat",
   "tooltip1": "háztartások",
   "textSourceDescription": "Forrás",
@@ -9,5 +9,5 @@
   "textNote": "Energiaszegénységről akkor beszélünk, ha egy háztartásnak olyan mértékben kell csökkentenie energiafogyasztását, ami negatívan befolyásolja a lakosság egészségét és jólétét.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=en",
-  "textCountryClick": "Kattintson további információkért"
+  "textCountryClick": "További információért kattintson"
 }

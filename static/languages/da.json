@@ -1,13 +1,13 @@
 {
-  "heading": "Hvad er andelen af husholdninger, der lider under energifattigdom?",
-  "subheading": "I 2023 led i gennemsnit 10,6 % af de samlede husstande i EU27-landene under energifattigdom.",
+  "heading": "Hvor mange europæiske husstande står over for energifattigdom?",
+  "subheading": "I gennemsnit var 10,6 % af husholdningerne i EU ikke i stand til at dække deres energibehov i 2023.",
   "legend1": "Ingen tilgængelige data",
   "tooltip1": "af husstande",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
   "textNote": "Energifattigdom opstår, når en husstand skal reducere sit energiforbrug i en grad, der påvirker indbyggernes sundhed og velvære negativt",
-  "textDataAccess": "Få adgang til data",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=da",
   "textCountryClick": "Klik for mere info"
 }
