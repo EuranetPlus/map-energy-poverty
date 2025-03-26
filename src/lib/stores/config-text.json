@@ -1,12 +1,12 @@
 {
   "heading": "How many European households are facing energy poverty?",
-  "subheading": "On average, 10.6% of households in the EU were unable to meet their energy needs in 2023.",
+  "subheading": "On average, 7.4% of households in the EU were unable to meet their energy needs in 2024.",
   "legend1": "No data available",
   "tooltip1": "of households",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Energy poverty occurs when a household must reduce its energy consumption to a degree that negatively impacts the inhabitants' health and wellbeing",
+  "textNote": "Energy poverty occurs when a household must reduce its energy consumption to a degree that negatively impacts the inhabitants' health and wellbeing. Data for Austria, Ireland, Greece, France, Croatia, Lithuania, Malta, Portugal, Romania & Slovakia are from 2023.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=en",
   "textCountryClick": "Click for more info"
