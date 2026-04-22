@@ -1,13 +1,11 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka monella eurooppalaisella kotitaloudella on energiaköyhyys?",
+  "subtitle": "Keskimäärin 7,7 % EU:n kotitalouksista ei pystynyt tyydyttämään energiantarpeitaan vuonna 2025. Parannus oli 16,3 % aiemmasta 9,2 %:n arvosta vuonna 2024.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Seuraavien maiden osalta ei ole annettu vuoden 2025 lukuja: Liettua, Luxemburg, Malta, Itävalta ja Slovakia.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
