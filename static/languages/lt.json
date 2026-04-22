@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek Europos namų ūkių susiduria su energijos nepritekliumi?",
+  "subtitle": "Vidutiniškai 7,7 % namų ūkių ES 2025 m. negalėjo patenkinti savo energijos poreikių. Tai 16,3 % pagerėjimas, palyginti su ankstesne 9,2 % verte 2024 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Šių šalių 2025 m. duomenys nepateikti: Lietuvos, Liuksemburgo, Maltos, Austrijos, Slovakijos.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
