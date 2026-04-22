@@ -1,13 +1,11 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik evropských domácností čelí energetické chudobě?",
+  "subtitle": "V průměru 7,7 % domácností v EU nebylo v roce 2025 schopno uspokojit své energetické potřeby. To představuje zlepšení o 16,3 % oproti předchozí hodnotě 9,2 % v roce 2024.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Pro následující země nejsou uvedeny žádné údaje za rok 2025: Litva, Lucembursko, Malta, Rakousko, Slovensko.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
