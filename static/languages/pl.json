@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile europejskich gospodarstw domowych zmaga się z ubóstwem energetycznym?",
+  "subtitle": "Średnio 7,7% gospodarstw domowych w UE nie było w stanie zaspokoić swoich potrzeb energetycznych w 2025 r. Oznacza to poprawę o 16,3% w porównaniu z poprzednią wartością 9,2% w 2024 r.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "W przypadku następujących krajów nie podano danych na rok 2025: Litwa, Luksemburg, Malta, Austria, Słowacja.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
